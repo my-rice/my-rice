@@ -21,7 +21,7 @@ I am Davide Risi, a Robotics Research Fellow at the University of Salerno.
 ## 📫 How to Reach Me
 [![GitHub Badge](https://img.shields.io/badge/@my--rice-%23181717?logo=github&logoColor=white)](https://github.com/my-rice)
 [![Linkedin Badge](https://img.shields.io/badge/@davide--risi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviderisi2001/)](https://www.linkedin.com/in/daviderisi2001/)
-[![Gmail Badge](https://img.shields.io/badge/-davide.debenedittis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daviderisi2001@gmail.com)](mailto:daviderisi2001@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-daviderisi2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daviderisi2001@gmail.com)](mailto:daviderisi2001@gmail.com)
 
 ## 🏆 GitHub Stats
 
