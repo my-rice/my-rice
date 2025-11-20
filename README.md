@@ -1,8 +1,9 @@
 ## 👋 Hi there
-I am Davide Risi, a Robotics Research Fellow at the University of Salerno.
+I am Davide Risi, a Robotics Research Fellow at the [Italian Institute of Technology](https://www.iit.it/en/)
 
 ## 🔭 Currently Exploring
 - Advanced manipulation and control strategies for robot–environment interaction.
+- Locomotion techniques for quadruped robots
 
 ## 🛠️ Language and Tools
 <!-- [![My Skills](https://skillicons.dev/icons?i=python,cpp,ros,git,docker)](https://skillicons.dev) -->
