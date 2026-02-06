@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I am Davide Risi, a Robotics Research Fellow at the [Italian Institute of Technology](https://www.iit.it/en/)
+I am Davide Risi, a Robotics Engineer at the [Italian Institute of Technology](https://www.iit.it/en/)
 
 ## 🔭 Currently Exploring
 - Advanced manipulation and control strategies for robot–environment interaction.
