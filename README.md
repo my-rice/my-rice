@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I am Davide Risi, a PhD student at the [IDSIA]([https://www.iit.it/en/](https://www.supsi.ch/idsia))
+I am Davide Risi, a PhD student at the [IDSIA](https://www.supsi.ch/idsia), working on robotics and intelligent systems.
 
 ## 🔭 Currently Exploring
 - Dexterous manipulation with robotic hands
@@ -16,7 +16,6 @@ I am Davide Risi, a PhD student at the [IDSIA]([https://www.iit.it/en/](https://
 - **Programming languages**: C++, Python, MATLAB & Simulink
 - **Robotics**: ROS 2, Gazebo, MuJoCo, Nav2, MoveIt2
 - **Tools**: Git, Docker 
-
 
 ## 📫 How to Reach Me
 [![GitHub Badge](https://img.shields.io/badge/@my--rice-%23181717?logo=github&logoColor=white)](https://github.com/my-rice)
