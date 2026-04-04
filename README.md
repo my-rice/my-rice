@@ -1,9 +1,8 @@
 ## 👋 Hi there
-I am Davide Risi, a Robotics Engineer at the [Italian Institute of Technology](https://www.iit.it/en/)
+I am Davide Risi, a PhD student at the [IDSIA]([https://www.iit.it/en/](https://www.supsi.ch/idsia))
 
 ## 🔭 Currently Exploring
-- Advanced manipulation and control strategies for robot–environment interaction.
-- Locomotion techniques for quadruped robots
+- Dexterous manipulation with robotic hands
 
 ## 🛠️ Language and Tools
 <!-- [![My Skills](https://skillicons.dev/icons?i=python,cpp,ros,git,docker)](https://skillicons.dev) -->
