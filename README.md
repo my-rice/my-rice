@@ -9,13 +9,13 @@ I am Davide Risi, a PhD student at the [IDSIA](https://www.supsi.ch/idsia), work
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,python,cpp,matlab,docker,git" />
+    <img src="https://skillicons.dev/icons?i=ros,python,cpp,matlab,docker,git,cmake" />
   </a>
 </p>
 
 - **Programming languages**: C++, Python, MATLAB & Simulink
 - **Robotics**: ROS 2, Gazebo, MuJoCo, Nav2, MoveIt2
-- **Tools**: Git, Docker 
+- **Tools**: Git, CMake, Docker 
 
 ## 📫 How to Reach Me
 [![GitHub Badge](https://img.shields.io/badge/@my--rice-%23181717?logo=github&logoColor=white)](https://github.com/my-rice)
